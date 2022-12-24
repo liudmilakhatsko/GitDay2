@@ -6,6 +6,8 @@ public class HomePage {
 
     // more things for the homepage
 
-    //
+    //add more things
+
+    //footer
 
 }
